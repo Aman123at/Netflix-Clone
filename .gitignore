@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+/src/axios.js
+/src/requests.js
+/.firebase
+.firebaserc
